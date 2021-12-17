@@ -2,7 +2,7 @@
  Resolução dos exercícios de algoritmo e lógica de programa com Python
 
  ***
-Para baixar a lista de exercícios em pdf [clique aqui](https://github.com/cidacastello/exercicios-java/tree/master/lista-de-exercicios)
+Para baixar a lista de exercícios em pdf [clique aqui](https://github.com/cidacastello/exercicios-python/tree/main/lista-de-exercicios)
 
 ***
 Os exercícios foram desenvolvidos utilizando a IDE Visual Studio Code.
